@@ -1,3 +1,3 @@
 # rubiks-cube
 
-#My first commit 
+#My second commit 
